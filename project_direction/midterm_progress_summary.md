@@ -1,11 +1,11 @@
 # Mid-Term Progress Summary
 
-Till the mid-term stage, I completed the learning phase covering Python basics, machine learning, deep learning, computer vision, and LLM/RAG fundamentals.
+I have reached the middle of my project. I want to tell you what I have done so far. At this -term stage I have finished the learning part where I learned about Python basics, machine learning, deep learning, computer vision and Large Language Models and RAG fundamentals.
 
-I learned Python basics and revised important programming concepts. Then I studied machine learning algorithms such as regression, classification, clustering, decision trees, SVM, random forest, KNN, Naive Bayes, PCA, regularization, and ensemble learning.
+I started by learning the basics of Python and I went over some ideas about programming again. Then I moved on to machine learning where I studied algorithms like regression and classification and clustering and decision trees and SVM and random forest and KNN and Naive Bayes and PCA and regularization and ensemble learning.
 
-In Week 3, I focused on deep learning and computer vision. I studied neural networks, TensorFlow/Keras, CNNs, convolution, padding, stride, pooling, data augmentation, transfer learning, computer vision datasets, object detection, and YOLO.
+In my week I spent my time on deep learning and computer vision. I learned about networks and TensorFlow and Keras and CNNs and convolution and padding and stride and pooling and data augmentation and transfer learning and computer vision datasets and object detection and YOLO.
 
-In Week 4, I studied Large Language Models, tokenization, training, fine-tuning, prompt engineering, API usage, Chainlit, LangChain, vector databases, embeddings, and RAG-based document question answering.
+In my week I learned about Large Language Models and tokenization and training and fine-tuning and prompt engineering and API usage and Chainlit and LangChain and vector databases and embeddings and RAG-based document question answering.
 
-This learning has helped me understand how the final project can combine computer vision for defect detection and LLM/RAG for explanation and report generation.
+All this learning has helped me understand how I can use computer vision to detect defects and Large Language Models and RAG to explain things and generate reports for my project, which is really about using computer vision for defect detection and Large Language Models and RAG, for explanation and report generation.

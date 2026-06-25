@@ -1,11 +1,13 @@
 # Project Understanding
 
-The project is about building a multi-modal AI system for industrial quality assurance.
+The project is about building a -modal AI system for industrial quality assurance.
 
-Industrial quality assurance means checking whether a manufactured product is defective or not. Traditionally this can be done manually, but AI can help automate this process.
+Industrial quality assurance is when we check if a product that has been made is defective or not.
 
-Computer vision can be used to detect visible defects such as scratches, cracks, dents, missing parts, or surface irregularities.
+We can do this by hand. The multi-modal AI system can help us do it automatically.
 
-Large language models can be used to explain results, generate inspection summaries, answer questions from documents, and assist in understanding quality guidelines.
+The multi-modal AI system can look at pictures to find defects that we can see, like scratches or cracks or dents or missing parts or things that're not smooth on the surface.
 
-A multi-modal system combines both image understanding and text understanding.
+The multi-modal AI system can also. Understand text and it can tell us what it found and make a list of what it checked and answer our questions, about the documents we have and help us understand what we need to do to make sure the products are good quality.
+
+A multi-modal AI system is good because it combines looking at pictures and reading text. The multi-modal AI system can understand both images and text.
